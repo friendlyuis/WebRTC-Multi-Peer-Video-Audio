@@ -1,5 +1,5 @@
 {
-  "name": "Web RTC Multi-Peer",
+  "name": "test-client",
   "version": "1.0.0",
   "description": "Description goes here",
   "main": "gulpfile.js",
